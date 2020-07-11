@@ -63,8 +63,8 @@ header {
   display: block;
   height: 50px;
   line-height: 50px;
-  padding-left: 30px;
-  font-size: 16px;
+  padding-left: 15px;
+  font-size: 14px;
 }
 
 .nav a:hover {
