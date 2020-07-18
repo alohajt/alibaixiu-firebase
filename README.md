@@ -10,7 +10,7 @@ Frontend: Bootstrap, HTML5, CSS3
 Hosted on Firebase
 
 # App Features
-Responsive web design
+Responsive web design  
 ![gif responsive](https://github.com/alohajt/medium-com-firebase/blob/master/images/medium-responsive.gif?raw=true)  
 
 # Challenges
