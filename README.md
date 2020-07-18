@@ -11,6 +11,8 @@ Hosted on Firebase
 
 # App Features
 Responsive web design
+![gif responsive](https://github.com/alohajt/medium-com-firebase/blob/master/images/medium-responsive.gif
+?raw=true)  
 
 # Challenges
 I always wanted to design a responsive webpage since it's widely needed. Bootstrap is proven to be an easy start.
